@@ -1,0 +1,2 @@
+<h2>Selamat Datang Di Halaman Administrator</h2>
+ <i>Selamat Datang Di Website Aplikasi Nilai Online Universitas Komputer Indonesia. Aplikasi ini dirancang untuk membantu para mahasiswa agar lebih mudah mengetahui Nilai dari matakuliah yang ditempuh.</i>
